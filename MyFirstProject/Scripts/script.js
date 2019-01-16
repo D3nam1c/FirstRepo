@@ -28,7 +28,7 @@ const sumto =  num => {
 
 console.log(sumto(10));
 
-//next class we shall be learning callbacks and closures and about recursive funtions
+//next class we shall be learning callbacks and closures and about recursive funtions, IIF.
 
 
 
